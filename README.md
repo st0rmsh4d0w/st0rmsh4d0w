@@ -1,7 +1,6 @@
 “Adapt what is useful, reject what is useless, and add what is specifically your own.”
-- Hi, I’m @st0rmsh4d0w
-- I’m interested in Linux
-- I’m currently learning Python
+- Linux
+- Python
 - How to reach me ronin.whitelotus@gmail.com
 
 <!---
